@@ -1,0 +1,749 @@
+<!DOCTYPE HTML>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+  <title>Adithyakrishna Venkatesh Hanasoge</title>
+  
+  <meta name="author" content="Adithyakrishna Venkatesh Hanasoge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+	<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
+</head>
+
+<body>
+  <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+    <tr style="padding:0px">
+      <td style="padding:0px">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <tr style="padding:0px">
+            <td style="padding:2.5%;width:43%;vertical-align:middle">
+              <p style="text-align:center">
+                <name>Adithyakrishna Venkatesh Hanasoge</name>
+              </p>
+
+              <p>I am a Robotics Master's student at UPenn (University of Pennsylvania) in Philadelphia, where I work on Computer Vision, Perception, SLAM, Deep learning and Planning.
+                 
+                 <!--Let's connect on <a href="https://www.linkedin.com/in/reach-archit/">LinkedIn</a> &nbsp <a href="https://www.linkedin.com/in/reach-archit/" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-linkedin fa-1x left  " aria-hidden="true"></i> </a>-->
+              </p>
+              <!--<br></br>-->
+              <!--<p style="text-align:center">
+                Email  &nbsp &nbsp &nbsp 
+                Resume &nbsp &nbsp &nbsp 
+                GitHub &nbsp &nbsp &nbsp 
+                LinkedIn
+              </p>-->
+              <p>Feel free to take a look at my Resume and drop me an <a href="mailto:adikvh@seas.upenn.edu">e-mail</a> if you want to connect with me.
+              </p>
+              <p style="text-align:center">
+                <a href="mailto:adikvh@seas.upenn.edu">Email</a> &nbsp/&nbsp
+                <a href="data/Adithyakrishna Resume.pdf">Resume</a> &nbsp/&nbsp
+                <a href="https://www.linkedin.com/in/adithyakrishnavh">Linkedin</a> &nbsp/&nbsp
+                <!-- <a href="https://scholar.google.com/citations?hl=en&user=jktWnL8AAAAJ">Google Scholar</a> &nbsp/&nbsp -->
+                
+                <a href="https://github.com/adithyakvh/">Github</a>
+                <!-- <a href="mailto:adikvh@seas.upenn.edu"           target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-envelope fa-2x left  " aria-hidden="true"></i></a> &nbsp &nbsp &nbsp &nbsp &nbsp
+                <a href="data/Adithyakrishna Resume.pdf" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-file     fa-2x center" aria-hidden="true"></i></a> &nbsp &nbsp &nbsp &nbsp &nbsp
+                <a href="https://github.com/adithyakvh/"             target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-2x right " aria-hidden="true"></i></a> 
+                <a href="https://www.linkedin.com/in/adithyakrishnavh"             target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-linkedin   fa-2x right " aria-hidden="true"></i></a> -->
+                <!-- <a href="mailto:architnh@seas.upenn.edu">Email</a> &nbsp/&nbsp -->
+                <!-- <a href="data/Archit_Hardikar_Resume_Robotics.pdf">CV</a> &nbsp/&nbsp -->
+                <!-- <a href="https://github.com/architnh">github</a> &nbsp -->
+              </p>
+            </td>
+            <td style="padding:5%;width:50%;max-width:100%">
+            <!-- <td style="padding:5%;width:80%;max-width:80%"> -->
+              <!-- <a href="images/headshot.jpg"><img style="width:80%;max-width:100%" alt="profile photo" src="images/headshot.jpg" class="hoverZoomLink"></a> -->
+              <a href="images/_DSC0948.JPG"><img style="width:50%;max-width:100%" alt="profile photo" src="images/_DSC0948.JPG" class="hoverZoomLink"></a>
+              
+            </td>
+          </tr>
+        </tbody></table>
+
+        <br><br><br>
+
+
+
+        <!-- Projects start here !-->
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+                    <tr>
+                    <td style="padding:0px;width:100%;vertical-align:middle">
+                      <heading>Projects</heading>
+                      <hr>
+                    </td>
+                  </tr>
+                </tbody></table>
+        
+        
+        <table style="width:130%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+          <!-- CIS680 -->
+
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+
+               <div class="one">
+                <img src='images/YOLOSOLO_2.jpg' width="250" height="200">
+              </div>
+              <br></br>
+              <!-- <div class="one"><video width=260 height=260 muted autoplay loop>
+                                <source src='images/advanced_lane.mp4' type="video/mp4">
+                                </video>
+                              
+              </div> -->
+              <script type="text/javascript">
+                function nerf_start() {
+                  document.getElementById('nerf_image').style.opacity = "1";
+                }
+
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>Object Detection and Image Segmentation</papertitle>
+              </a>
+              <br>
+              <em>2022</em>
+              <br>
+              <!-- <a href="https://www.linkedin.com/in/reach-archit/">LinkedIn</a> -->
+              <p>
+              In this project, different Object Detection and Image Segmentation algorithms were explored and implemented from scratch. The algorithms include YOLO, SOLO and Faster R-CNN with Mask R-CNN.
+              <br>
+              <br>
+              
+              Object Detection <a href="https://github.com/adithyakvh/YOLO">YOLO</a>
+              <br>
+              Instance Segmentation <a href="https://github.com/adithyakvh/Faster-R-CNN-with-Mask-R-CNN">Faster-RCNN with Mask-R-CNN</a>
+              <!--Faster-RCNN with Mask-R-CNN: &nbsp <a href="https://github.com/adithyakvh/Faster-R-CNN-with-Mask-R-CNN" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a> -->
+              <br>
+              Instance Segmentation <a href="https://github.com/adithyakvh/SOLO">SOLO</a>
+              <!--SOLO : &nbsp <a href="https://github.com/adithyakvh/SOLO" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a> -->
+              </p>
+            </td>
+          </tr>
+
+          <!-- Advanced Perception YOLO -->
+
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+
+              <!-- <div class="one"><video width=200 height=200 muted autoplay loop>
+                  <source src='images/icra_2022.mp4' type="video/mp4">
+                  </video>
+              </div> -->
+              <div class="one">
+                <img src='images/obsandlane_gif.gif' width="200" height="200">
+              </div>
+              <br></br>
+              <script type="text/javascript">
+                function nerf_start() {
+                  document.getElementById('nerf_image').style.opacity = "1";
+                }
+
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>FreeDAS</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar, Lenning Davis, Nicholas Marion, Ruchi Gupte</strong>, -->
+              <br>
+              <em>2022</em>
+              <br>              
+              <br>
+              <a href="https://github.com/adithyakvh/YOLO">FreeDAS</a>
+              <br>
+              <a href="https://github.com/adithyakvh/Advanced-Driver-Assistant-System-with-DeepSORT">ADAS Tracking with DeepSORT </a>
+              <br>
+              
+              <!-- MaskRCNN: &nbsp <a href="https://github.com/architnh" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a>  -->
+              <!-- Report: &nbsp  <a href="https://github.com/architnh/arm_mpc/blob/master/MEAM_517_Project_Report.pdf">Link</a> -->
+              <!-- <a href="https://www.linkedin.com/in/reach-archit/">LinkedIn</a> -->
+              <p>
+              FreeDAS is an open-source project developed for our Computer Vision & Computational Photography course as a final project. The goal of this project is to enable old vehicles with no access to driver assist functionalities with a vision-based driver assist system using webcam footage. This is now an initial proof of concept and the above features have been implemented, with special techniques to enable faster computation.
+              <br>
+              </p>
+            </td>
+          </tr>
+
+
+		   <!-- UKF -->
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  <!--bgcolor="#ffffd0"-->
+            <td style="padding:20px;width:30%;vertical-align:middle">
+             <div class="one">
+               <img src='images/UKF/Capture.jpg' width="200" height="200">
+              </div>
+              <script type="text/javascript">
+                function nerf_start() {
+                  document.getElementById('nerf_image').style.opacity = "1";
+                }
+
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+                <papertitle>Orienation Tracking using Unscented Kalman Filter</papertitle>
+              <br>
+                <em>2022</em>
+                <br>
+              Code:<a href="https://github.com/adithyakvh/Orientation_tracking_using_UKF"> UKF</a>
+              <p></p>
+              <p>
+                  In this project, we implemented an Unscented Kalman filter to track three dimensional orientation.<br>
+                  From the given IMU sensor readings, the 3D orientation was estimated by learning the appropriate model parameters from ground truth data given by a Vicon motion capture system.
+                <br>
+              </p>
+            </td>
+          </tr>
+
+		  
+		  
+    
+          <!-- Robotic Arm Manipulation -->
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+  
+              <!-- <div class="one">
+                <img src='images/meam520.png' width="200" height="200">
+              </div> -->
+              <div class="one">
+                                <!-- <source src='images/speed_test_map_1.mkv' type="video/mp4"> -->
+              <img src='images/Franka Panda Arm/Franka Panda Arm GIF.gif' width="200" height="200">
+                                          
+              </div>
+              <br></br>
+              <script type="text/javascript">
+                function nerf_start() {
+                  document.getElementById('nerf_image').style.opacity = "1";
+                }
+  
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>Pick and Place Challenge - Franka Panda Arm</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar</strong>, -->
+              <br>
+                <em>2021</em>
+              <!-- <br> -->
+              <br>
+             
+              <!--Code: &nbsp <a href="https://github.com/architnh/arm_mpc" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a> -->
+              <br>
+              <a href="https://www.youtube.com/watch?v=RPsGKJ_FfFg">Video</a>
+              <p>
+                The Pick and Place challenge is to stack static and dynamic blocks by a 7DOF Franka Panda Arm using ROS and Python. 
+                
+                Our team won the Pick and Place knockout challenge at UPenn stacking the highest stack of static and dynamic blocks.
+                <br>
+                In the video above which is from the Finals of the competition, my team is the Blue team.
+              </p>
+            </td>
+          </tr>
+
+
+          <!-- Path Planning using IPM for f1tenth -->
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+  
+              <div class="one">
+                <img src='images/Crazyflie.gif' width="200" height="200">
+              </div>
+              <!-- <div class="one"><video width=200 height=200 muted autoplay loop>
+                                  <source src='images/arm_mpc1x1.mp4' type="video/mp4">
+                                </video>            
+              </div> -->
+              <br></br>
+              <script type="text/javascript">
+                function nerf_start() {
+                  document.getElementById('nerf_image').style.opacity = "1";
+                }
+  
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>3D Path Planning for CrazyFlie Quadrotor</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar</strong>, -->
+              <br>
+                <em>2022</em>
+              <br>              
+              <br>
+			  <!--Code:<a href="https://github.com/adithyakvh/Orientation_tracking_using_UKF"> UKF</a>-->
+              <a href="https://github.com/adithyakvh/CrazyFlie_Quadrotor_Planning_and_Control"> Code</a>
+              <br>
+              <a href="https://www.youtube.com/watch?v=6PSO4oCLDYQ">Video</a>
+              <p>
+                <!--Built a trajectory generator for a CrazyFlie Quadrotor using Dijkstra’s and A* algorithm avoiding obstacles in the path. Built a 
+                Geometric Nonlinear controller using quadrotor dynamics to ensure quadrotor follows path.
+                In this project, I implemented Geometric non-linear controller algorithm to control a quadrotor which could follow a predefined 
+                trajectory and reach the goal without collision in an obstacle cluttered environment. The optimal trajectory was obtained by 
+                down-sampling the waypoints to the shortest path which was generated by A*, followed by trajectory smoothening.
+                IMU and stereo pair information was fused to get the 3D pose of the quadrotor using Error State Kalman Filter (Visual Inertial Odometry).
+                This project focused on demonstrating the planning aspect of robot capabilities. During the lab, the CrazyFlie 2.0 was used for realistic demonstrations. A microcomputer is responsible for low-level control and estimation, while the onboard IMU provides feedback of angular velocities and accelerations. The attitude and thrust commands are sent to the quadrotor via the CrazyRadio after being computed in python.
+                -->
+                In this project, I developed a trajectory generator and controller for a CrazyFlie Quadrotor, enabling it to navigate through 
+                an obstacle-cluttered environment and reach its goal safely. To accomplish this, I utilized two popular algorithms, Dijkstra's 
+                and A*, to generate an optimal path, avoiding obstacles in the path.
+                After obtaining the optimal trajectory, I implemented a Geometric Non-linear controller algorithm to ensure that the quadrotor followed 
+                the predefined path and avoided any potential collisions with the obstacles in the environment. The trajectory was further smoothed for 
+                better accuracy.
+                To obtain the 3D pose of the quadrotor, I fused the IMU and stereo pair information using an Error State Kalman Filter 
+                (Visual Inertial Odometry). This enabled me to accurately estimate the quadrotor's position and orientation in real-time.
+                During the lab, the CrazyFlie 2.0 was used for realistic demonstrations. The quadrotor's low-level control and estimation were 
+                managed by a microcomputer, while the onboard IMU provided feedback of angular velocities and accelerations. The attitude and 
+                thrust commands were computed in Python and sent to the quadrotor via the CrazyRadio.
+                <br>
+              </p>
+            </td>
+          </tr>
+
+		  
+		   
+            
+            <!-- OSC Planar Biped MEAM 517 -->
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+  
+              <div class="one">
+                <img src='images/SLAM/SLAM Image_c.jpg' width="200" height="200">
+              </div> 
+              <!--<div class="one"><video width=200 height=200 muted autoplay loop>
+                                  <source src='images/osc_walker.mp4' type="video/mp4">
+                                </video>-->            
+              </div>
+              <br></br>
+              <script type="text/javascript">
+                function nerf_start() {
+                  document.getElementById('nerf_image').style.opacity = "1";
+                }
+  
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>SLAM on Humanoid</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar</strong>, -->
+              <br>
+                <em>2022</em>
+              <br>              
+              <!-- <br> -->
+              <!-- Code: &nbsp <a href="https://github.com/architnh/inverse_perspective_mapping_f1tenth" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a>  -->
+              <!-- <br> -->
+              <!-- Video: &nbsp  <a href="https://youtu.be/J32xKW-mLgY">YouTube</a> -->
+              <a href="https://github.com/adithyakvh/SLAM-on-Humanoid-Robot">Code</a>
+              <p>
+                Implementation of a Particle filter based SLAM Algorithm for the THOR Humanoid Biped. The IMU orientation and odometry data 
+                gathered from 2D LiDAR scans of a bipedal robot were combined to generate a 2D occupancy grid map of the surrounding walls and obstacles 
+                in our project.
+                <br>
+              </p>
+            </td>
+          </tr>
+          <!-- ICP Scan Match -->
+      
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+  
+              <div class="one">
+                <img src='images/Machine Learning.jpg' width="250" height="200">
+              </div>
+              <!-- <div class="one"><video width=260 height=260 muted autoplay loop>
+                                <source src='images/advanced_lane.mp4' type="video/mp4">
+                                </video>
+                              
+              </div> -->
+              
+              <br></br>
+              <script type="text/javascript">
+                function nerf_start() {
+                  document.getElementById('nerf_image').style.opacity = "1";
+                }
+  
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>Machine Learning for Drowsiness Detection</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar, Lenning Davis, Nicholas Marion</strong>, -->
+              <br>
+                <em>2021</em>
+                <br>
+                <!-- <br> -->
+                <!-- Code: &nbsp <a href="https://github.com/architnh/arm_mpc" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a>  -->
+                <br>
+                <a href="https://github.com/adithyakvh/Drowsiness-Detection">GitHub</a>, &nbsp  <a href="https://www.youtube.com/watch?v=lJDvPGl10NQ">Hector SLAM</a>
+              <p>
+                Used KNN, Logistic Regression, Random Forests, VGG16, Resnet50, and other neural network architectures to detect drowsiness from videos of human beings.
+                <br>
+                Face Detection using Yolo; Eye and mouth face landmarks extracted using OpenCV
+                <br>
+              </p>
+            </td>
+          </tr>
+ <!-- Multi View Reconstruction-->
+            <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+  
+              <div class="one">
+                <img src='images/Multi-View Stereo/Results/Reconstruction.jpg' width="250" height="200">
+              </div>
+              <!-- <div class="one"><video width=260 height=260 muted autoplay loop>
+                                <source src='images/advanced_lane.mp4' type="video/mp4">
+                                </video>
+                              
+              </div> -->
+              
+              <br></br>
+              <script type="text/javascript">
+                function nerf_start() {
+                  document.getElementById('nerf_image').style.opacity = "1";
+                }
+  
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>3D Reconstruction using Multi-View Stereo</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar, Lenning Davis, Nicholas Marion</strong>, -->
+              <br>
+                <em>2022</em>
+                <br>
+                <!-- <br> -->
+                <!-- Code: &nbsp <a href="https://github.com/architnh/arm_mpc" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a>  -->
+                <br>
+                <a href="https://github.com/adithyakvh/3D-Reconstruction">GitHub</a>
+              <p>
+                Used KNN, Logistic Regression, Random Forests, VGG16, Resnet50, and other neural network architectures to detect drowsiness from videos of human beings.
+                <br>
+                Face Detection using Yolo; Eye and mouth face landmarks extracted using OpenCV
+                <br>
+              </p>
+            </td>
+          </tr>
+          
+
+          
+          <!-- Value iteration -->
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+              
+              <!-- <div class="one">
+                <img src='images/ipm.png' width="200" height="200">
+              </div> -->
+              <div class="one"><video width=200 height=200 muted autoplay loop>
+                <source src='images/val_iter.mp4' type="video/mp4">
+              </video>            
+            </div>
+            <br></br>
+            <script type="text/javascript">
+              function nerf_start() {
+                document.getElementById('nerf_image').style.opacity = "1";
+                }
+  
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>Optimal control policy for Gridworld robot using value iteration</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar</strong>, -->
+              <br>
+              <em>Fall 2022</em>
+              <br>              
+              <!-- <br> -->
+              <!-- Code: &nbsp <a href="https://github.com/architnh/inverse_perspective_mapping_f1tenth" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a>  -->
+              <!-- <br> -->
+              <!-- Video: &nbsp  <a href="https://youtu.be/J32xKW-mLgY">YouTube</a> -->
+              <p>
+                In this project, robot states were defined for a gridworld to replicate real world properties of robot slip (ground friction conditions e.g oil spill), solid obstacles like walls, etc. and free path. Using value iteration, an optimal control policy was obtained and various discount factors (gamma) were tried to get the most optimal policy and path.                
+                <br>
+              </p>
+            </td>
+          </tr>
+
+           
+          <!-- Path Planning Methods -->
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+              
+              <div class="one">
+                <img src='images/rrtvsrrtstar.gif' width="200" height="140">
+              </div>
+              <!-- <div class="one"><video width=200 height=200 muted autoplay loop>
+                <source src='images/arm_mpc1x1.mp4' type="video/mp4">
+              </video>            
+            </div> -->
+            <br></br>
+            <script type="text/javascript">
+              function nerf_start() {
+                document.getElementById('nerf_image').style.opacity = "1";
+              }
+              
+              function nerf_stop() {
+                document.getElementById('nerf_image').style.opacity = "0";
+              }
+              nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>Comparison of RRT and RRT* approaches in Autonomous Racing</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar</strong>, -->
+              <br>
+              <em>Spring 2022</em>
+              <br>
+              <br>
+              Code: &nbsp <a href="https://github.com/architnh/f1tenth_rrtstar" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a> 
+              <!-- <br>
+                Report: &nbsp  <a href="https://github.com/architnh/inverse_perspective_mapping_f1tenth/blob/main/ESE_615_Final_Report.pdf">Link</a> -->
+                <p>
+                  The goal of this lab project was to explore Sampling based algorithms: RRT and its variants. Through this project, we implemented a binary occupancy grid (0 for free, 1 for occupied), and processed the Hokuyu 2D Lidar scans at a refresh rate of 25ms.
+                  <br>
+                </p>
+              </td>
+            </tr>
+
+          <!-- Logo Projection CIS 580 -->
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+              
+              <!-- <div class="one">
+                <img src='images/rrtvsrrtstar.gif' width="200" height="140">
+              </div> -->
+              <div class="one"><video width=200 height=200 muted autoplay loop>
+                <source src='images/upenn_ra_vs_barca.mp4' type="video/mp4">
+              </video>            
+            </div>
+            <br></br>
+            <script type="text/javascript">
+              function nerf_start() {
+                document.getElementById('nerf_image').style.opacity = "1";
+              }
+              
+              function nerf_stop() {
+                document.getElementById('nerf_image').style.opacity = "0";
+              }
+              nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>Penn Engineering Projection using Homography a.k.a Collineation</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar</strong>, -->
+              <br>
+              <em>Spring 2023</em>
+              <br>
+              <br>
+              <!-- Code: &nbsp <a href="https://github.com/architnh/f1tenth_rrtstar" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a>  -->
+              <!-- <br>
+                Report: &nbsp  <a href="https://github.com/architnh/inverse_perspective_mapping_f1tenth/blob/main/ESE_615_Final_Report.pdf">Link</a> -->
+                <p>
+                  In this project, I used the concepts of projective geometry and homographies to project Penn Engineering logo onto a scene from the El Clasico football match in a way that respects perspective.
+                  <br>
+                </p>
+              </td>
+            </tr>
+
+      
+          <!-- Control of 2D Quadrotors -->
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+              
+              <!-- <div class="one">
+                <img src='images/rrtvsrrtstar.gif' width="200" height="140">
+              </div> -->
+              <div class="one"><video width=200 height=200 muted autoplay loop>
+                <source src='images/lqr_2dquad.mp4' type="video/mp4">
+              </video>            
+            </div>
+            <br></br>
+            <script type="text/javascript">
+              function nerf_start() {
+                document.getElementById('nerf_image').style.opacity = "1";
+              }
+              
+              function nerf_stop() {
+                document.getElementById('nerf_image').style.opacity = "0";
+              }
+              nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>Control of 2D Quadrotor</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar</strong>, -->
+              <br>
+              <em>Fall 2022</em>
+              <br>
+              <!-- <br> -->
+              <!-- Code: &nbsp <a href="https://github.com/architnh/f1tenth_rrtstar" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a>  -->
+              <!-- <br>
+                Report: &nbsp  <a href="https://github.com/architnh/inverse_perspective_mapping_f1tenth/blob/main/ESE_615_Final_Report.pdf">Link</a> -->
+                <p>
+                  <!-- The goal of this lab project was to explore Sampling based algorithms: RRT and its variants. Through this project, we implemented a binary occupancy grid (0 for free, 1 for occupied), and processed the Hokuyu 2D Lidar scans at a refresh rate of 25ms. -->
+                  I worked on this project as a part of my MEAM 5170 class work. The project was aimed at exploring the various methods of control of 2D Quadrotor like iLQR(iterative linear quadratic regulator), model predictive control, and trajectory tracking using time varying LQR 
+                  <br>
+                </p>
+              </td>
+            </tr>
+               
+
+            <!-- 3D Visualizing -->
+            <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+              <td style="padding:20px;width:30%;vertical-align:middle">
+    
+                <!-- <div class="one">
+                  <img src='images/ipm.png' width="200" height="200">
+                </div> -->
+                <div class="one"><video width=200 height=200 muted autoplay loop>
+                                    <source src='images/visualizetool.mp4' type="video/mp4">
+                                  </video>            
+                </div>
+                <br></br>
+                <script type="text/javascript">
+                  function nerf_start() {
+                    document.getElementById('nerf_image').style.opacity = "1";
+                  }
+    
+                  function nerf_stop() {
+                    document.getElementById('nerf_image').style.opacity = "0";
+                  }
+                  nerf_stop()
+                </script>
+              </td>
+              
+              <td style="padding:20px;width:75%;vertical-align:middle">
+                <!--<a href="http://www.matthewtancik.com/nerf">-->
+                  <papertitle>3D Object Visualization</papertitle>
+                </a>
+                <!-- <br> -->
+                <!-- <strong>Archit Hardikar</strong>, -->
+                <br>
+                  <em>Spring 2023</em>
+                <br>              
+                <!-- <br> -->
+                <!-- Code: &nbsp <a href="https://github.com/architnh/inverse_perspective_mapping_f1tenth" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a>  -->
+                <!-- <br> -->
+                Video: &nbsp  <a href="https://youtu.be/J32xKW-mLgY">YouTube</a>
+                <p>
+                  <!-- This project was aimed at combining our previous efforts for dynamic obstacle avoidance using spline-based RRT* approch with a vision system for path planning. We integrated an inverse perspective mapping pipeline for opponent vehicle state estimation and path planning approaches. The image shown to the left shows the accuracy of the generated IPM by overlaying the LIDAR scan onto the image. -->
+                  This project was aimed at using 2D graphics to create a Visualization tool for any 3D solid objects given the coordinates and faces data through an input text file. GUI included mouse click and drag functionality for rotating object to visualize it. 3D frame transforms were done and points were projected on a 2D plane. Wireframe visualization involved just the edges and vertices, while the face visualization included changing colors of faces to imitate shaders.
+                  <br>
+                </p>
+              </td>
+            </tr>
+            
+            <!-- MEAM 5100 -->
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+  
+              <div class="one">
+                <img src='images/meam510.JPG' width="200" height="200">
+              </div>
+              <!-- <div class="one"><video width=260 height=260 muted autoplay loop>
+                                <source src='images/advanced_lane.mp4' type="video/mp4">
+                                </video>
+                              
+              </div> -->
+              <br></br>
+              <script type="text/javascript">
+                function nerf_start() {
+                  document.getElementById('nerf_image').style.opacity = "1";
+                }
+  
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>Mechatronics: Autonomous Battle Robot</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar</strong> -->
+              <br>
+                <em>Fall 2021</em>
+              <br>
+              <p>
+                <br>
+                Designed and built an autonomous wall following robot. Localization using HTC Vive in C. Obstacle detection, frequency detection and wall following.
+                <br>
+              </p>
+            </td>
+          </tr>
+
+
+          <!-- END OF DOCUMENT -->
+          </td></tr></tbody></table>
+<br></br>
+
+Website creatively modified from the original <a href="https://jonbarron.info/">template</a> by Jon Barron. Thanks Jon!
+</body>
+
+</html>
