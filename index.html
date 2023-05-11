@@ -174,6 +174,55 @@
               </p>
             </td>
           </tr>
+		  
+		  
+		  <!-- NeRF -->
+          <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">  
+            <td style="padding:20px;width:30%;vertical-align:middle">
+
+              <!-- <div class="one"><video width=200 height=200 muted autoplay loop>
+                  <source src='images/icra_2022.mp4' type="video/mp4">
+                  </video>
+              </div> -->
+              <div class="one">
+                <img src='images/NeRF/NeRF Target.jpeg' width="200" height="200">
+              </div>
+              <br></br>
+              <script type="text/javascript">
+                function nerf_start() {
+                  document.getElementById('nerf_image').style.opacity = "1";
+                }
+
+                function nerf_stop() {
+                  document.getElementById('nerf_image').style.opacity = "0";
+                }
+                nerf_stop()
+              </script>
+            </td>
+            
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <!--<a href="http://www.matthewtancik.com/nerf">-->
+                <papertitle>NeRF</papertitle>
+              </a>
+              <!-- <br> -->
+              <!-- <strong>Archit Hardikar, Lenning Davis, Nicholas Marion, Ruchi Gupte</strong>, -->
+              <br>
+              <em>2022</em>
+              <br>              
+              <br>
+              <a href="https://github.com/adithyakvh/NeRF">NeRF</a>
+              <br>
+              
+              
+              <!-- MaskRCNN: &nbsp <a href="https://github.com/architnh" target="_blank" style="color :rgb(0, 0, 0); "><i class="fa fa-github   fa-1x right " aria-hidden="true"></i></a>  -->
+              <!-- Report: &nbsp  <a href="https://github.com/architnh/arm_mpc/blob/master/MEAM_517_Project_Report.pdf">Link</a> -->
+              <!-- <a href="https://www.linkedin.com/in/reach-archit/">LinkedIn</a> -->
+              <p>
+              In this project, the goal is to represent a 3D scene in a convenient and compact way, to be later used for rendering 2D images. A 3D scene can be considered a set of points that contain color and density. Though every fixed point in the scene has a fixed density, that’s not the case with the color. Each point can have a different color depending on the viewing direction if we assume the surface to be non-Lambertian.
+              <br>
+              </p>
+            </td>
+          </tr>
 
 
 		   <!-- UKF -->
